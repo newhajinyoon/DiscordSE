@@ -1,0 +1,16 @@
+{
+  "name": "Discord SE by jinyoon",
+  "main": "index.html",
+  "window": {
+    "icon": "image/icon.png",
+    "frame": true,
+    "toolbar": false,
+    "width": 1000,
+    "height": 700,
+    "position": "center",
+    "resizable": true
+  },
+  "webkit": {
+
+  }
+}
