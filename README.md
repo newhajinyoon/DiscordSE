@@ -1,5 +1,6 @@
 # Discord SE - 저사양 컴퓨터용 디스코드
 ## Super Light Discord
+![](image/icon.png)
 
 ## 기능
 
