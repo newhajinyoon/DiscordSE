@@ -1,7 +1,8 @@
 # Discord SE - 저사양 컴퓨터용 디스코드
-![](image/igo.png)
-## Super Light Discord
-![](image/ICON.png)
+<center><img src="image/ICON.png" width="300" height="300"></center>
+<center><img src="image/igo.png" width="400" height="100"></center>
+
+# Super Light Discord
 
 ## 기능
 
@@ -37,3 +38,10 @@
 
 # 업데이트
 - 곧 릴리즈 예정
+
+# 실행화면
+## 창모드
+<center><img src="image/screenshot.png" width="700" height="500"></center>
+
+## 전체화면
+<center><img src="image/화면 캡처 2022-10-16 114226.png" width="900" height="500"></center>
